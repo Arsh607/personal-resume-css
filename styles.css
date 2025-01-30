@@ -144,3 +144,97 @@ footer a:hover {
         width: 100%;
     }
 }
+
+@media (max-width: 768px) {
+    /* For mobile devices (portrait) */
+    
+    body {
+        padding: 0 10px;  /* Reduce padding on mobile */
+    }
+
+    header {
+        font-size: 2rem;  /* Adjust header font size for smaller screens */
+    }
+
+    .centered-block {
+        width: 150px;    /* Reduce the image size for mobile */
+        height: 150px;
+    }
+
+    section h1,
+    section h2,
+    section h3,
+    section h4,
+    section h5,
+    section h6 {
+        font-size: 1.2rem;  /* Smaller headings for mobile screens */
+    }
+
+    section ul {
+        padding-left: 20px; /* Ensure proper list alignment */
+    }
+
+    footer {
+        font-size: 0.9rem;  /* Reduce footer font size */
+    }
+}
+
+@media (max-width: 1024px) {
+    /* For tablets (portrait and landscape) */
+    
+    body {
+        padding: 0 20px;  /* Adjust padding for tablet view */
+    }
+
+    header {
+        font-size: 2.5rem;  /* Slightly larger header for tablet */
+    }
+
+    .centered-block {
+        width: 180px;    /* Adjust profile picture for tablets */
+        height: 180px;
+    }
+
+    section h1,
+    section h2,
+    section h3,
+    section h4,
+    section h5,
+    section h6 {
+        font-size: 1.5rem;  /* Adjust heading sizes */
+    }
+
+    footer {
+        font-size: 1rem;  /* Adjust footer font size for tablets */
+    }
+}
+
+@media (min-width: 1200px) {
+    /* For larger screens (Desktops and above) */
+    
+    body {
+        padding: 0 40px;  /* Add more padding for larger screens */
+    }
+
+    header {
+        font-size: 3rem;  /* Larger font for header */
+    }
+
+    .centered-block {
+        width: 200px;    /* Profile picture size for larger screens */
+        height: 200px;
+    }
+
+    section h1,
+    section h2,
+    section h3,
+    section h4,
+    section h5,
+    section h6 {
+        font-size: 2rem;  /* Larger heading sizes */
+    }
+
+    footer {
+        font-size: 1.2rem;  /* Larger footer font for desktops */
+    }
+}
