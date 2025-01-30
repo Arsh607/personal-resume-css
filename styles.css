@@ -135,7 +135,6 @@ footer a:hover {
         font-size: 1.2rem;
     }
 
-    
 
     .container {
         padding: 0 10px;
@@ -150,15 +149,15 @@ footer a:hover {
     /* For mobile devices (portrait) */
     
     body {
-        padding: 0 10px;  /* Reduce padding on mobile */
+        padding: 0 10px;  
     }
 
     header {
-        font-size: 2rem;  /* Adjust header font size for smaller screens */
+        font-size: 2rem;  
     }
 
     .centered-block {
-        width: 150px;    /* Reduce the image size for mobile */
+        width: 150px;    
         height: 150px;
     }
 
@@ -168,15 +167,15 @@ footer a:hover {
     section h4,
     section h5,
     section h6 {
-        font-size: 1.2rem;  /* Smaller headings for mobile screens */
+        font-size: 1.2rem;  
     }
 
     section ul {
-        padding-left: 20px; /* Ensure proper list alignment */
+        padding-left: 20px; 
     }
 
     footer {
-        font-size: 0.9rem;  /* Reduce footer font size */
+        font-size: 0.9rem;  
     }
 }
 
@@ -184,15 +183,15 @@ footer a:hover {
     /* For tablets (portrait and landscape) */
     
     body {
-        padding: 0 20px;  /* Adjust padding for tablet view */
+        padding: 0 20px;  
     }
 
     header {
-        font-size: 2.5rem;  /* Slightly larger header for tablet */
+        font-size: 2.5rem;  
     }
 
     .centered-block {
-        width: 180px;    /* Adjust profile picture for tablets */
+        width: 180px;    
         height: 180px;
     }
 
@@ -202,11 +201,11 @@ footer a:hover {
     section h4,
     section h5,
     section h6 {
-        font-size: 1.5rem;  /* Adjust heading sizes */
+        font-size: 1.5rem;  
     }
 
     footer {
-        font-size: 1rem;  /* Adjust footer font size for tablets */
+        font-size: 1rem;  
     }
 }
 
@@ -214,15 +213,15 @@ footer a:hover {
     /* For larger screens (Desktops and above) */
     
     body {
-        padding: 0 40px;  /* Add more padding for larger screens */
+        padding: 0 40px;  
     }
 
     header {
-        font-size: 3rem;  /* Larger font for header */
+        font-size: 3rem;  
     }
 
     .centered-block {
-        width: 200px;    /* Profile picture size for larger screens */
+        width: 200px;   
         height: 200px;
     }
 
@@ -232,10 +231,10 @@ footer a:hover {
     section h4,
     section h5,
     section h6 {
-        font-size: 2rem;  /* Larger heading sizes */
+        font-size: 2rem;  
     }
 
     footer {
-        font-size: 1.2rem;  /* Larger footer font for desktops */
+        font-size: 1.2rem;  
     }
 }
