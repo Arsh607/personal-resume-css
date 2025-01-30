@@ -32,14 +32,14 @@ Optimize Images: I’d compress images and optimize them for faster loading.
 
 Assignment -2:
 
-1. What My Code Does
+1. `What My Code Does`
 The code creates a personal resume webpage using HTML for structure and CSS for styling. It includes sections for personal details, skills, work experience, and education, styled with custom fonts, a consistent color palette, and a responsive layout. Media queries ensure the site adapts to various screen sizes, while accessibility features like semantic tags and ARIA roles improve usability.
 
-2. My Coding Process
+2. `My Coding Process`
 I followed a structured approach, starting with the design guidelines, then moving to layout and styling. I focused on responsiveness and accessibility, regularly testing on multiple devices. I used Git for version control and committed frequently.
 
-3. Challenges
+3. `Challenges`
 One challenge was ensuring cross-device compatibility and making the layout fully responsive. I overcame this by using Flexbox, Grid, and media queries, testing the site on various screen sizes.
 
-4. What I Would Do Differently
+4. `What I Would Do Differently`
 Next time, I would spend more time planning the layout and accessibility features before coding to ensure a smoother development process. Additionally, I would experiment with more advanced CSS effects to enhance the design further.
