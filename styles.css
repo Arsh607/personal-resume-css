@@ -81,7 +81,7 @@ section ul li {
 }
 
 .custom-bullets {
-    list-style-type: circle; /* Circle bullets */
+    list-style-type: square; 
 }
 
 svg {
